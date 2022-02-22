@@ -24,7 +24,7 @@ I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mo
 [![](https://img.icons8.com/color/48/000000/nginx.png)](https://www.nginx.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsitsena&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=WorkshopAR,ToDoSwiftUI,RestaurantsAppSwift&hide=css)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsitsena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirsitsena&&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :surfer: How to reach me:
 
