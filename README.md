@@ -1,4 +1,4 @@
-<h1 align="center">Greetings!!! I'm Sitsena! 🇸🇪</h1>
+<h1 align="center">Greetings!!! I'm Sitsena! 🇺🇦 🇬🇷 🇸🇪 </h1>
 
 I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mobile Developer :iphone: currently living in Sweden.
 
