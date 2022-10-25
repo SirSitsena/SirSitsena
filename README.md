@@ -3,8 +3,11 @@
 I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mobile Developer :iphone: currently living in Sweden.
 
 :mortar_board: I’m currently learning:
-- Mobile Development using Kotlin with Android Studio.
-- Web Development using NodeJS and Docker.
+- Information Security
+- Research Methods in Computer Science and Informatics
+
+:man_teacher: I'm currently working:
+- As a Teaching Assistant in Network Programming at JTH
 
 ## 🚀 Languages and Tools:
 [![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com)
