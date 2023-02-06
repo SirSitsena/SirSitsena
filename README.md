@@ -3,11 +3,12 @@
 I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mobile Developer :iphone: currently living in Sweden.
 
 :mortar_board: I’m currently learning:
-- Information Security
-- Research Methods in Computer Science and Informatics
+- Business Planning and Entrepreneurship
+- Writing my thesis
 
-:man_teacher: I'm currently working:
-- As a Teaching Assistant in Network Programming at JTH
+:man_teacher: Work experience:
+- Teaching Assistant in Network Programming at JTH
+- Teaching Assistant in Object-oriented Software Development with Design Patterns at JTH
 
 ## 🚀 Languages and Tools:
 [![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com)
