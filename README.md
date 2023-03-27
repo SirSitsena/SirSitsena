@@ -3,10 +3,11 @@
 I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mobile Developer :iphone: currently living in Sweden.
 
 :mortar_board: I’m currently learning:
-- Business Planning and Entrepreneurship
+- Intelligent Mobile Systems
 - Writing my thesis
 
 :man_teacher: Work experience:
+- ...
 - Teaching Assistant in Network Programming at JTH
 - Teaching Assistant in Object-oriented Software Development with Design Patterns at JTH
 
